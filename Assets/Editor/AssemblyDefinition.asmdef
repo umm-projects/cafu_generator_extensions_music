@@ -1,0 +1,14 @@
+{
+    "name": "umm@cafu_generator_extensions_music-Editor",
+    "references": [
+        "umm@cafu_generator-Editor",
+        "umm@extra_linq",
+        "umm@context_management"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
