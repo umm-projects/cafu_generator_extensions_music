@@ -15,7 +15,7 @@ namespace CAFU.Music.Generator
 
         protected override LayerType LayerType { get; } = LayerType.Entity;
 
-        protected override string ModuleName { get; } = "umm@cafu_music";
+        protected override string ModuleName { get; } = "umm@cafu_generator_extensions_music";
 
         public override void Generate(bool overwrite)
         {
